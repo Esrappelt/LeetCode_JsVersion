@@ -1,2 +1,1 @@
-s this is my second git study
-
+this is my third modify
